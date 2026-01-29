@@ -1,0 +1,14 @@
+# 環境変数ファイル（機密情報を含むためコミットしない）
+.env
+
+# 設定ファイル
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
